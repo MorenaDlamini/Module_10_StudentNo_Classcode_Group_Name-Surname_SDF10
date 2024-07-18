@@ -33,9 +33,24 @@ The 'DELETE' this will remove the data
 One which we commonly use is the one I mentioned above which is Restful API. This API is widely used in web and mobile applications to interact with the database and services. 
 
 
-4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? lis
+4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs?
 
-[Your answer goes here]
+**Example**
+* Users must test their cap lamp on a lamp room panel.
+* The lamp room panel sends a pass/fail message to the data server.
+* Based on the pass/fail message, the interface sends a message to the time and attendance system.
+* The time and attendance system controls the turnstile based on the message received.
+
+**API Endpoints**
+*Lamp Room Panel to Data Server:*
+
+* Endpoint: POST /lamp-test
+* Body: user_id, lamp_id, test_result
+
+*Data Server to Time and Attendance System:*
+
+* Endpoint: POST /turnstile-control
+* Body: user_id, access_granted
 
 5. **Learning and Improvement**: Considering the key concepts and your practical experiences, identify one area related to APIs where you feel confident and one area where you see a need for improvement. What steps will you take to enhance your understanding and skills in the area you wish to improve?
 
