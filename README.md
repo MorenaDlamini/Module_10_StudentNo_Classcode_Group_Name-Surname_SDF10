@@ -8,7 +8,13 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 2. **Conceptual Distinctions**: How would you differentiate between an interface and an API? 
 
-[Your answer goes here]
+**Interface:** What you see and interact with directly as a user
+**API** This is the behind the scenes technology that enables the application to perform certain operations on your behalf by connecting to the back-end of the system 
+
+**Example**
+
+Interface: within a banking application, the user is able to interact with the application, whether checking your balance, transferring money or playing the lotto.
+API: behind this banking application interface, there is a API that connects it to the bank'system. This allows the application to securely retrieve your account information,       process your trasaction. 
 
 3. **Components and Types of APIs**: Can you identify the main components of an API and describe their roles? Reflect on the different types of APIs mentioned (e.g., Web APIs, RESTful APIs) and discuss which type you find most intriguing or useful, and why.
 
