@@ -22,7 +22,16 @@ API: behind this banking application interface, there is a API that connects it 
 
 3. **Components and Types of APIs**: Can you identify the main components of an API and describe their roles? Reflect on the different types of APIs mentioned (e.g., Web APIs, RESTful APIs) and discuss which type you find most intriguing or useful, and why.
 
-[Your answer goes here]
+The most common methods which are used are:
+'GET', 'POST', 'PUT', 'DELETE' 
+
+The 'GET' method retrieves data from the API.
+The 'POST' creates new data or submits data to be processed.
+The 'PUT' updates existing data
+The 'DELETE' this will remove the data 
+
+One which we commonly use is the one I mentioned above which is Restful API. This API is widely used in web and mobile applications to interact with the database and services. 
+
 
 4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? lis
 
