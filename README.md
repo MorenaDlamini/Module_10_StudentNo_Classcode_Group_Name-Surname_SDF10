@@ -39,4 +39,6 @@ One which we commonly use is the one I mentioned above which is Restful API. Thi
 
 5. **Learning and Improvement**: Considering the key concepts and your practical experiences, identify one area related to APIs where you feel confident and one area where you see a need for improvement. What steps will you take to enhance your understanding and skills in the area you wish to improve?
 
-[Your answer goes here]
+* Area where I feel confident would be the HTTP basics which is the common use for communication. 
+* Area of improvement would be error handling and authentication and security. 
+* I plan on reading up on documentation and diving into API tutorials for more understanding 
