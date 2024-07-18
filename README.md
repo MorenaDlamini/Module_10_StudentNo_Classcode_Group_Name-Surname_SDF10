@@ -4,7 +4,11 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 1. **Understanding and Application**: Reflecting on the key concepts, can you explain in your own words what an API is and its significance in software development? Provide an example of how you have used or encountered an API in a project or a practical scenario.
 
-[Your answer goes here]
+An API is like a meesenger that will take your request from a application then tells the back-end system what to do. it then takes the response from the back-end and sends it back to your application so you as the user can see the results.
+
+**Practical Scenario**
+In an Uber application there's 5 things that happen in order to get a ride which are *requesting a ride*, *matching with a Driver*, *The driver acceptance and Navigation*, *Ride Progress and Updates*, *Payment and Rating*, *Data Processing*. All of these mentioned steps utilize a API 
+
 
 2. **Conceptual Distinctions**: How would you differentiate between an interface and an API? 
 
@@ -20,7 +24,7 @@ API: behind this banking application interface, there is a API that connects it 
 
 [Your answer goes here]
 
-4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? 
+4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? lis
 
 [Your answer goes here]
 
