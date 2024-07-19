@@ -12,8 +12,8 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 2. **Conceptual Distinctions**: How would you differentiate between an interface and an API? 
 
-**Interface:** What you see and interact with directly as a user
-**API** This is the behind the scenes technology that enables the application to perform certain operations on your behalf by connecting to the back-end of the system 
+* **Interface:** What you see and interact with directly as a user
+* **API** This is the behind the scenes technology that enables the application to perform certain operations on your behalf by connecting to the back-end of the system 
 
 **Example**
 
