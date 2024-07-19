@@ -7,7 +7,7 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 * An API is like a meesenger that will take your request from a application then tells the back-end system what to do. it then takes the response from the back-end and sends it back to your application so you as the user can see the results.
 
 **Practical Scenario**
-In an Uber application there's 5 things that happen in order to get a ride which are *requesting a ride*, *matching with a Driver*, *The driver acceptance and Navigation*, *Ride Progress and Updates*, *Payment and Rating*, *Data Processing*. All of these mentioned steps utilize a API 
+* In an Uber application there's 5 things that happen in order to get a ride which are *requesting a ride*, *matching with a Driver*, *The driver acceptance and Navigation*, *Ride Progress and Updates*, *Payment and Rating*, *Data Processing*. All of these mentioned steps utilize a API 
 
 
 2. **Conceptual Distinctions**: How would you differentiate between an interface and an API? 
